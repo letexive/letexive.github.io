@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://letexive.github.io/sitemap/sitemap_index.letexive
+Sitemap: https://letexive.github.io/egf/sitemap_index.letexive
+Sitemap: https://letexive.github.io/PZu/sitemap_index.letexive
+Sitemap: https://letexive.github.io/UMP/sitemap_index.letexive
+Sitemap: https://letexive.github.io/lRu/sitemap_index.letexive
+Sitemap: https://letexive.github.io/hMW/sitemap_index.letexive
+Sitemap: https://letexive.github.io/bFx/sitemap_index.letexive
+Sitemap: https://letexive.github.io/vDQ/sitemap_index.letexive
+Sitemap: https://letexive.github.io/SMU/sitemap_index.letexive
+Sitemap: https://letexive.github.io/TkM/sitemap_index.letexive
+Sitemap: https://letexive.github.io/Jak/sitemap_index.letexive
+Sitemap: https://letexive.github.io/Qks/sitemap_index.letexive
+Sitemap: https://letexive.github.io/irO/sitemap_index.letexive
+Sitemap: https://letexive.github.io/TxO/sitemap_index.letexive
+Sitemap: https://letexive.github.io/IZc/sitemap_index.letexive
+Sitemap: https://letexive.github.io/qts/sitemap_index.letexive
+Sitemap: https://letexive.github.io/osf/sitemap_index.letexive
+Sitemap: https://letexive.github.io/TJO/sitemap_index.letexive
+Sitemap: https://letexive.github.io/PkD/sitemap_index.letexive
+Sitemap: https://letexive.github.io/naj/sitemap_index.letexive
+Sitemap: https://letexive.github.io/qdt/sitemap_index.letexive
